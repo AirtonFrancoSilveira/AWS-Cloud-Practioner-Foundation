@@ -34,3 +34,19 @@ Para saber mais sobre os benefícios, expanda cada uma das seis categorias a seg
 Despesas iniciais se referem a data centers, servidores físicos e outros recursos nos quais você precisaria investir antes de usá-los. Despesas variáveis significam que você paga apenas pelos recursos de computação que consumir em vez de investir muito em data centers e servidores antes de saber como usá-los.
 
 Ao adotar uma abordagem de computação em nuvem com o benefício de despesas variáveis, as empresas podem implementar soluções inovadoras enquanto economizam custos.
+
+## Pare de gastar dinheiro para execultar e manter data centers
+
+A computação em data centers costuma exigir que você gaste mais dinheiro e tempo gerenciando a infraestrutura e os servidores. 
+
+Um benefício da computação em nuvem é poder se concentrar menos nessas tarefas e mais nas aplicações e clientes.
+
+# O que é um modelo cliente-servidor?
+
+Você acabou de aprender mais sobre a AWS e como quase toda a computação moderna usa um modelo cliente-servidor básico. Vamos recapitular o que é um modelo cliente-servidor.
+
+Na computação, um cliente pode ser um navegador da web ou uma aplicação de desktop com o qual uma pessoa interage para fazer solicitações a servidores de computador. Um servidor pode ser um serviço, como o Amazon Elastic Compute Cloud (Amazon EC2), um tipo de servidor virtual.
+
+Por exemplo, suponha que um cliente faça uma solicitação de uma matéria jornalística, a pontuação em um jogo on-line ou um vídeo engraçado. O servidor avalia os detalhes dessa solicitação e a atende retornando as informações ao cliente.
+
+![Alt text](image.png)
